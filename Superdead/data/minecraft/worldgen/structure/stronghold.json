@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stronghold",
+  "biomes": [
+    "jackmember.superdead:badlands",
+    "jackmember.superdead:stony_shore",
+    "jackmember.superdead:stony_peaks",
+    "jackmember.superdead:dead_plains"
+  ],
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "bury"
+}

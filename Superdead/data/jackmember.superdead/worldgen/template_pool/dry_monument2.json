@@ -1,0 +1,15 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "jackmember.superdead:dry_ocean_monument2",
+        "override_liquid_settings": "apply_waterlogging",
+        "processors": "jackmember.superdead:dry_monument_rot"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:ocean_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 14357621,
+    "frequency": 0.4,
+    "spread_type": "linear",
+    "spacing": 32,
+    "separation": 1
+  }
+}

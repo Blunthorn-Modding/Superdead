@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:mineshaft",
+  "biomes": [
+    "jackmember.superdead:badlands",
+    "jackmember.superdead:eroded_badlands",
+    "jackmember.superdead:wooded_badlands"
+  ],
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "mineshaft_type": "normal"
+}

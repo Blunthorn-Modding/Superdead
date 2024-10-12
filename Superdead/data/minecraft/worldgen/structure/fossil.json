@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:nether_fossil",
+  "biomes": [
+    "jackmember.superdead:badlands",
+    "jackmember.superdead:eroded_badlands",
+    "jackmember.superdead:desert"
+  ],
+  "step": "underground_decoration",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_thin",
+  "height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 32
+    },
+    "max_inclusive": {
+      "below_top": 2
+    }
+  }
+}

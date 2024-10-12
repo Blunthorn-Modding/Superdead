@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:desert_pyramid",
+  "biomes": "jackmember.superdead:desert",
+  "step": "surface_structures",
+  "spawn_overrides": {}
+}

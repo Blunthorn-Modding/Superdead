@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:woodland_mansion",
+  "biomes": [
+    "jackmember.superdead:dead_plains",
+    "jackmember.superdead:stony_shore"
+  ],
+  "step": "surface_structures",
+  "spawn_overrides": {}
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:shipwreck",
+  "biomes": [
+    "jackmember.superdead:desert",
+    "jackmember.superdead:badlands"
+  ],
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "is_beached": true
+}

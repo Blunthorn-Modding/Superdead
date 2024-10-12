@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:buried_treasure",
+  "biomes": [
+    "jackmember.superdead:desert",
+    "jackmember.superdead:badlands"
+  ],
+  "step": "underground_structures",
+  "spawn_overrides": {}
+}

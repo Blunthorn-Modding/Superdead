@@ -1,0 +1,21 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:fossil",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 14357921,
+    "frequency": 0.3,
+    "locate_offset": [
+      0,
+      1,
+      2
+    ],
+    "spread_type": "triangular",
+    "spacing": 4,
+    "separation": 0
+  }
+}
